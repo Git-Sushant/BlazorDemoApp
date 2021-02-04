@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JvAgXce3LqZ7I7tnL1rsvy8tPcUimkJG0yFVn6BZMGS4GVqlCi9z4AfhQLdHrNn8EYK/vAATDQy3xFwaEsnbJA==",
+  "success": true,
+  "projectFilePath": "C:\\Sushant\\BlazorAppDemo\\Demo\\Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sushant.patil\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\sushant.patil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

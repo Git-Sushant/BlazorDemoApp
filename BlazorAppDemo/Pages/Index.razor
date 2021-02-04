@@ -1,0 +1,20 @@
+﻿@page "/"
+
+<h1>Hello, world!</h1>
+
+Welcome to your new app.
+<input  @bind="num1"/>
+<input @bind="num2" />
+
+<button  @onclick="Addition">Add</button>
+<label> @result</label>
+
+@code{
+    int num1,num2;
+    int result;
+
+    public void Addition()
+    {
+        result = num1 + num2;
+    }
+}
